@@ -49,7 +49,7 @@ namespace Proj01Part02
 
             Console.WriteLine("Difference in days: " + dateDiff.ToString());
             Console.WriteLine("Difference in hours: " + dateDiffhours.ToString());
-            Console.WriteLine("Difference in seconds: " + dateDiffmin.ToString());
+            Console.WriteLine("Difference in minutes: " + dateDiffmin.ToString());
             Console.ReadKey();
             
         }
